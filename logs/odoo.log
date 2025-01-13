@@ -705,3 +705,12 @@ FileNotFoundError: [Errno 2] No such file or directory: '/home/nikita/Work/OdooP
 2025-01-13 10:25:58,174 165544 WARNING Test odoo.addons.base.models.ir_cron: Skipping database Test because of modules to install/upgrade/remove. 
 2025-01-13 10:26:47,943 165544 WARNING Test odoo.addons.base.models.ir_cron: Skipping database Test because of modules to install/upgrade/remove. 
 2025-01-13 10:26:59,210 165544 WARNING Test odoo.addons.base.models.ir_cron: Skipping database Test because of modules to install/upgrade/remove. 
+2025-01-13 10:27:48,004 165544 WARNING Test odoo.addons.base.models.ir_cron: Skipping database Test because of modules to install/upgrade/remove. 
+2025-01-13 10:28:00,259 165544 WARNING Test odoo.addons.base.models.ir_cron: Skipping database Test because of modules to install/upgrade/remove. 
+2025-01-13 10:28:48,065 165544 WARNING Test odoo.addons.base.models.ir_cron: Skipping database Test because of modules to install/upgrade/remove. 
+2025-01-13 10:29:01,271 165544 WARNING Test odoo.addons.base.models.ir_cron: Skipping database Test because of modules to install/upgrade/remove. 
+2025-01-13 10:29:48,127 165544 WARNING Test odoo.addons.base.models.ir_cron: Skipping database Test because of modules to install/upgrade/remove. 
+2025-01-13 10:30:02,284 165544 WARNING Test odoo.addons.base.models.ir_cron: Skipping database Test because of modules to install/upgrade/remove. 
+2025-01-13 10:30:48,189 165544 WARNING Test odoo.addons.base.models.ir_cron: Skipping database Test because of modules to install/upgrade/remove. 
+2025-01-13 10:31:03,297 165544 WARNING Test odoo.addons.base.models.ir_cron: Skipping database Test because of modules to install/upgrade/remove. 
+2025-01-13 10:31:48,251 165544 WARNING Test odoo.addons.base.models.ir_cron: Skipping database Test because of modules to install/upgrade/remove. 
