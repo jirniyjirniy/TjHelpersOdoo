@@ -1,0 +1,7 @@
+#!/home/nikita/Work/OdooProjects/Odoo1/venv/bin/python3
+# EASY-INSTALL-DEV-SCRIPT: 'odoo==17.0','odoo'
+__requires__ = 'odoo==17.0'
+__import__('pkg_resources').require('odoo==17.0')
+__file__ = '/home/nikita/Work/OdooProjects/Odoo1/odoo/setup/odoo'
+with open(__file__) as f:
+    exec(compile(f.read(), __file__, 'exec'))
